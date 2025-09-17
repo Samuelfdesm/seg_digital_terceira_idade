@@ -1,0 +1,13 @@
+
+# Leticia
+Exemplo de estrutura do questionário:
+
+1. Você usa redes sociais? ( ) Sim ( ) Não
+2.	Quais redes sociais você usa? ( ) WhatsApp ( ) Facebook ( ) Instagram ( ) Outras
+3.	Com que frequência você acessa? ( ) Todos os dias ( ) Algumas vezes na semana ( ) Raramente
+4.	Para que você mais usa? ( ) Falar com família ( ) Ver notícias ( ) Lazer ( ) Outros
+5.	Já teve alguma dificuldade ao usar redes sociais? ( ) Sim ( ) Não
+6.	Se sim, qual dificuldade?
+7.	Você já recebeu mensagens que achava falsas (fake news)? ( ) Sim ( ) Não
+8.	O que você gostaria que fosse mais fácil nas redes sociais?
+
