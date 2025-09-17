@@ -2,7 +2,7 @@
 # Leticia
 Exemplo de estrutura do questionário:
 
-1. Você usa redes sociais? ( ) Sim ( ) Não
+1.  Você usa redes sociais? ( ) Sim ( ) Não
 2.	Quais redes sociais você usa? ( ) WhatsApp ( ) Facebook ( ) Instagram ( ) Outras
 3.	Com que frequência você acessa? ( ) Todos os dias ( ) Algumas vezes na semana ( ) Raramente
 4.	Para que você mais usa? ( ) Falar com família ( ) Ver notícias ( ) Lazer ( ) Outros
@@ -10,4 +10,121 @@ Exemplo de estrutura do questionário:
 6.	Se sim, qual dificuldade?
 7.	Você já recebeu mensagens que achava falsas (fake news)? ( ) Sim ( ) Não
 8.	O que você gostaria que fosse mais fácil nas redes sociais?
+
+
+# Samuel
+
+Estrutura da Pesquisa de Segurança Digital
+1. O que você faria se recebesse um e-mail de um banco pedindo para atualizar seus dados pessoais e senhas através de um link?
+
+a) Clicaria no link para não ter a conta bloqueada.
+b) Ignoraria o e-mail e o excluiria imediatamente.
+c) Ligar para o banco e verificar se a solicitação é verdadeira.
+d) Responderia ao e-mail pedindo mais informações.
+
+2. Qual destas opções descreve a melhor forma de criar uma senha forte?
+
+a) Usar uma data de aniversário ou uma palavra fácil de lembrar.
+b) Usar a mesma senha para todas as suas contas.
+c) Combinar letras maiúsculas e minúsculas, números e símbolos, e usar uma senha diferente para cada conta importante.
+d) Escrever a senha em um papel e guardá-la junto ao computador.
+
+3. O que significa 'phishing' na internet?
+
+a) Um tipo de golpe em que o criminoso se passa por uma empresa, instituição ou pessoa confiável para roubar dados pessoais e senhas.
+b) Um tipo de vírus que danifica o seu computador e o deixa lento.
+c) Um jogo online popular.
+d) Uma ferramenta para organizar seus arquivos e fotos no computador.
+
+4. Ao usar uma rede Wi-Fi pública, qual é a maior preocupação com a sua segurança?
+
+a) A velocidade da internet pode ser mais lenta.
+b) Os dados podem ser roubados e lidos por pessoas mal-intencionadas, pois a rede não é segura.
+c) Você pode ter que pagar para usar a internet.
+d) A bateria do seu celular pode acabar mais rápido.
+
+5. Qual é a função de um programa antivírus no seu computador?
+
+a) Tornar o computador mais rápido e organizado.
+b) Identificar, bloquear e remover vírus, malwares e outras ameaças digitais.
+c) Ajudar você a encontrar arquivos e fotos perdidas no computador.
+d) Navegar na internet e acessar sites de notícias.
+
+6. Se você receber uma mensagem de um número desconhecido no WhatsApp dizendo que você ganhou um prêmio, o que você deve fazer?
+
+a) Responder à mensagem pedindo mais informações.
+b) Compartilhar a mensagem com seus amigos e familiares.
+c) Bloquear o número e apagar a mensagem.
+d) Entrar no link enviado na mensagem para resgatar o prêmio.
+
+7. Qual destas opções é uma medida de segurança importante para proteger seus dados online?
+
+a) Usar a mesma senha para todas as contas.
+b) Manter os programas e o sistema operacional do computador desatualizados.
+c) Ativar a verificação em duas etapas sempre que possível.
+d) Compartilhar informações pessoais com pessoas que você conhece apenas pela internet.
+
+8. O que você deve fazer antes de clicar em um link em uma página de internet?
+
+a) Clicar imediatamente, pois todos os links são seguros.
+b) Passar o mouse sobre o link e verificar o endereço para ver se é o que você esperava.
+c) Ligar para o seu banco para verificar se o link é seguro.
+d) Compartilhar o link com seus amigos para que eles cliquem primeiro.
+
+9. Por que é importante manter o sistema operacional do seu celular ou computador sempre atualizado?
+
+a) Para ter acesso a novas funcionalidades e designs.
+b) Para economizar a bateria do aparelho.
+c) Para corrigir falhas de segurança e proteger o aparelho contra novas ameaças digitais.
+d) Para aumentar o espaço de armazenamento do aparelho.
+
+10. O que é um 'golpe do falso parente' no WhatsApp?
+
+a) Quando um parente que você não via há muito tempo te adiciona no WhatsApp.
+b) Quando alguém se passa por um parente ou amigo seu pedindo dinheiro com urgência.
+c) Quando um parente manda uma foto de um bolo de aniversário.
+d) Quando um parente te manda uma mensagem de feliz aniversário.
+
+
+
+# Julio
+
+Você acredita que a tecnologia pode melhorar sua vida no dia a dia?
+(  ) Sim  (  ) Não
+
+Você acha que a tecnologia ajuda a manter contato com a família?
+(  ) Sim  (  ) Não
+
+Você já usou o Google para pesquisar algo?
+(  ) Sim  (  ) Não
+
+Você já mudou a letra do celular para maior ou menor?
+(  ) Sim  (  ) Não
+Dá pra ter um link nesse Tmb muitos quer mudar mais n sabe aí nós pode fazer um link ensinando
+
+Você já assistiu vídeos no YouTube ou em outro aplicativo?
+(  ) Sim  (  ) Não
+
+Você tem dificuldade para lembrar senhas de celular ou computador?
+(  ) Sim  (  ) Não
+
+Você já pediu comida ou comprou algo pela internet?
+(  ) Sim  (  ) Não
+
+
+
+# Vitor
+
+O(a) senhor(a) utiliza celular ou smartphone? ( ) Sim ( ) Não
+O(a) senhor(a) acessa a internet com frequência? ( ) Sim ( ) Não
+Já recebeu mensagens suspeitas pedindo dados pessoais ou dinheiro? ( ) Sim ( ) Não
+O(a) senhor(a) sabe identificar quando uma mensagem é falsa (golpe)? ( ) Sim ( ) Não
+Costuma pedir ajuda a familiares ou amigos para usar a tecnologia? ( ) Sim ( ) Não
+Já realizou compras pela internet? ( ) Sim ( ) Não
+O(a) senhor(a) se sente seguro(a) em digitar senhas no celular ou computador? ( ) Sim ( ) Não
+Utiliza redes sociais (WhatsApp, Facebook, etc.)? ( ) Sim ( ) Não
+Já sofreu algum golpe ou fraude digital? ( ) Sim ( ) Não
+Gostaria de receber orientações sobre como usar a tecnologia de forma mais segura? ( ) Sim ( ) Não
+
+
 
