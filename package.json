@@ -1,0 +1,19 @@
+{
+  "name": "seg-digital-terceira-idade",
+  "version": "1.0.0",
+  "description": "Projeto destinado a ajudar pessoas da terceira idade a usar a internet com mais segurança.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuelfdesm/seg_digital_terceira_idade.git"
+  },
+  "author": "Samuel Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuelfdesm/seg_digital_terceira_idade/issues"
+  },
+  "homepage": "https://github.com/Samuelfdesm/seg_digital_terceira_idade#readme"
+}
