@@ -126,5 +126,75 @@ Utiliza redes sociais (WhatsApp, Facebook, etc.)? ( ) Sim ( ) Não
 Já sofreu algum golpe ou fraude digital? ( ) Sim ( ) Não
 Gostaria de receber orientações sobre como usar a tecnologia de forma mais segura? ( ) Sim ( ) Não
 
+# Vinicius Miguel
 
+1. Ao navegar em uma rede social, você vê um quiz divertido como "Qual celebridade você se parece?". O quiz pede permissão para acessar seu perfil e lista de amigos. O que você faz?
+
+a) Participo do quiz, parece inofensivo e todos os meus amigos estão fazendo.
+b) Nego o acesso, pois esses quizzes podem ser usados para coletar meus dados pessoais e dos meus contatos para fins maliciosos.
+c) Participo, mas depois removo o acesso nas configurações da rede social.
+d) Forneço apenas algumas informações, não todas.
+
+2. Você recebe um telefonema de alguém que diz ser do suporte técnico da Microsoft ou Apple, afirmando que seu computador foi infectado por um vírus grave. O que eles pedem que você faça?
+
+a) Seguir as instruções deles para instalar um programa que dá a eles acesso remoto ao seu computador para "consertar" o problema.
+b) Fornecer o número do seu cartão de crédito para pagar pelo serviço de remoção de vírus.
+c) Desligar o computador imediatamente para o vírus não se espalhar.
+d) Agradecer a ligação, desligar e não fazer nada do que foi pedido, pois empresas de tecnologia não entram em contato dessa forma.
+
+3. Qual é a maneira mais segura de fazer compras online?
+
+a) Usar qualquer site que apareça primeiro na busca do Google.
+b) Procurar por um ícone de cadeado na barra de endereço e verificar se o endereço do site começa com "https://".
+c) Usar o mesmo cartão de crédito para todas as compras para facilitar o rastreamento.
+d) Salvar os dados do seu cartão de crédito em todos os sites de compras para agilizar pagamentos futuros.
+
+4. Um amigo compartilha no WhatsApp uma notícia chocante sobre um novo imposto ou uma cura milagrosa para uma doença. O que você deve fazer antes de compartilhar com outras pessoas?
+
+a) Compartilhar imediatamente para alertar o maior número de pessoas o mais rápido possível.
+b) Responder ao seu amigo perguntando de onde ele recebeu a notícia.
+c) Pesquisar a notícia em sites de jornalismo conhecidos e confiáveis para verificar se ela é verdadeira.
+d) Acreditar na notícia, pois foi um amigo que enviou.
+
+5. Você está em um café e precisa usar o Wi-Fi. Aparecem duas redes: "WIFI_CAFETERIA" e "WIFI_GRATIS_CAFETERIA". Qual é a atitude mais segura?
+
+a) Conectar na "WIFI_GRATIS_CAFETERIA", pois parece ser a rede gratuita oficial.
+b) Perguntar a um funcionário do café qual é o nome exato e a senha da rede Wi-Fi oficial antes de se conectar.
+c) Conectar na que tiver o sinal mais forte.
+d) Tentar conectar nas duas para ver qual é mais rápida.
+
+6. Você recebe um pedido de amizade no Facebook de alguém que você não conhece, mas vocês têm alguns amigos em comum. O que é mais prudente fazer?
+
+a) Aceitar o pedido, pois ter amigos em comum significa que a pessoa é confiável.
+b) Ignorar ou recusar o pedido, pois perfis falsos são criados para aplicar golpes ou roubar informações.
+c) Enviar uma mensagem para a pessoa perguntando de onde ela te conhece.
+d) Aceitar e imediatamente olhar todas as fotos da pessoa para tentar reconhecê-la.
+
+7. O que significa "autenticação de dois fatores" (ou verificação em duas etapas)?
+
+a) Ter que digitar sua senha duas vezes para entrar em uma conta.
+b) Uma camada extra de segurança que exige, além da senha, um código enviado para seu celular ou e-mail.
+c) Usar duas senhas diferentes para a mesma conta.
+d) Um sistema que verifica se você é um robô ou um humano.
+
+8. Você recebe um pop-up (janela que salta na tela) dizendo que você é o visitante número 1.000.000 e ganhou um celular novo. Para resgatar, basta preencher um cadastro. O que você faz?
+
+a) Preencho o cadastro rapidamente para não perder o prêmio.
+b) Fecho a janela, pois é uma tática comum para roubar dados pessoais ou instalar vírus.
+c) Clico para ver qual é o modelo do celular antes de decidir.
+d) Tiro uma foto da tela para provar que ganhei e depois preencho o cadastro.
+
+9. Você está vendendo um produto na internet e o comprador diz que já fez o depósito e te envia um comprovante por foto. O que você deve fazer antes de enviar o produto?
+
+a) Enviar o produto imediatamente para ser um vendedor eficiente.
+b) Confiar no comprador, pois ele enviou a foto do comprovante.
+c) Verificar diretamente no seu extrato bancário se o dinheiro realmente entrou na sua conta, pois comprovantes podem ser falsificados.
+d) Pedir para ele enviar a foto do comprovante novamente para confirmar.
+
+10. Você conhece alguém em um site de relacionamento que parece ser a pessoa perfeita, mas após algumas semanas de conversa, ela começa a pedir dinheiro para uma emergência (um parente doente, um problema na alfândega, etc.). Isso é um sinal de quê?
+
+a) Um relacionamento verdadeiro, onde as pessoas se ajudam financeiramente.
+b) Um "golpe de romance", uma farsa comum onde o golpista manipula a vítima para roubar dinheiro.
+c) A pessoa está apenas testando sua generosidade.
+d) Uma oportunidade de mostrar que você se importa e quer ajudar.
 
