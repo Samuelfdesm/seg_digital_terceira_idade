@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Samuelfdesm/seg_digital_terceira_idade/issues"
   },
-  "homepage": "https://github.com/Samuelfdesm/seg_digital_terceira_idade#readme"
+  "homepage": "https://github.com/Samuelfdesm/seg_digital_terceira_idade#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "mysql2": "^3.15.1"
+  }
 }
