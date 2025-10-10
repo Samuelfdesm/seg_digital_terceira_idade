@@ -1,0 +1,69 @@
+<%- include('partials/header') %>
+
+<div class="container mt-4">
+
+  <%  
+  if(typeof erros !== "undefined"){
+      erros.forEach(erro => { 
+  %>
+      <div class="alert alert-danger"><%= erro.texto %></div>
+  <%      }) 
+    }
+  %>
+
+  <form method="POST" action="/salvarrespostas" class="questionario">
+    
+    <h1>Olá <%= visitante %></h1>
+
+    <% 
+      let letras_alternativas = ["a)","b)","c)","d)"]
+      let i = 0
+      let j = 1
+      questionario.forEach(pergunta => {  
+    %>
+
+      <div class="card">  
+        <div class="card-header card-title">
+          <h4><%= String(j) + ". " + pergunta.pergunta %></h4>
+        </div>
+
+        <div class="card-body card-options">
+        <% pergunta.alternativas.forEach(alternativa => { %>
+            <div class="form-check">
+              <input type="radio" class="form-check-input" id="<%= alternativa.idalternativas %>" name="<%= pergunta.id_pergunta %>" value="<%= alternativa.idalternativas %>">
+              <label class="form-check-label" for="<%= alternativa.idalternativas %>">
+                <%= letras_alternativas[i] + " " + alternativa.alternativa %>
+              </label>
+            </div>
+        <% 
+            i++
+            })
+          j++ 
+        %>
+        </div>
+      </div>
+    <% 
+    i = 0
+    })
+    j = 0
+    %>
+
+    <input type="hidden" name="idusuario" value="<%= idusuario %>">
+    <button class="btn btn-dark" id="Responder">Responder</button>
+
+  </form>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<%- include('partials/footer') %>
