@@ -29,6 +29,9 @@ app.get("/", (req, res) => {
     res.render("informacoes");
 });
 
+app.get("/sobre", (req, res) => {
+    res.render("sobre");
+});
 
 
 app.listen(80, () => {console.log("App rodando!");});
