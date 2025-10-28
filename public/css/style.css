@@ -21,12 +21,12 @@ body {
 .navbar a {
   color: #fff !important;
 }
-.quiz-container {
+/* .quiz-container {
   background-color: #d4e4e7;
   border: 2px solid #122231;
   border-radius: 10px;
   padding: 30px;
-}
+} */
 .btn-primary {
   background-color: #398af6;
   border-color: #398af6;
@@ -66,7 +66,7 @@ body {
     width: auto;
   }
 
-  .quiz-container {
+  /* .quiz-container {
     padding: 15px;
   }
 
@@ -74,7 +74,7 @@ body {
     font-size: 18px;
     align-items: center;
     padding: 2px;
-  }
+  } */
 
   .hero {
     background-image: url("../assets/bg-home-mobile.jpg");
@@ -103,12 +103,12 @@ body {
 .navbar a {
   color: #fff !important;
 }
-.quiz-container {
+/* .quiz-container {
   background-color: #d4e4e7;
   border: 2px solid #122231;
   border-radius: 10px;
   padding: 20px;
-}
+} */
 .btn-primary {
   background-color: #398af6;
   border-color: #398af6;
@@ -255,6 +255,10 @@ body{
 .navbar-nav{
   margin-left: 130px;
 }
+
+
+
+
 
 
 
