@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
 const session = require("express-session");
-const Quiz = require("./engine/quiz"); //Database
+// const Quiz = require("./engine/quiz"); //Database
 
 // Estou dizendo para o Express usar o EJS como View Engine
 app.set('view engine','ejs');
